@@ -3,12 +3,6 @@
 <p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator. </p>
 <p align="center">💡 Fueled by curiosity and creativity, I specialize in Machine Learning, CRYPTOGRAPHY, and Web Development.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijayhanand003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/vijayhanand003tab=followers">
-    <img src="https://img.shields.io/github/followers/vijayhanand003label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
 
 ---
 
