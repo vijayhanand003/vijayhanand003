@@ -7,6 +7,7 @@
 ---
 
 ### 🚀 About Me
+- 🎓 CSE Undergraduate | Passionate about pushing the boundaries of technology.
 - 🌱 **Currently Exploring**: Deep Learning, Networks, Machine Learning  
 - 💡 **Skills**: Python, C++, HTML, CSS, MySQL  
 - 🤝 **Strengths**: Leadership, Communication, Teamwork  
