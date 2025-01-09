@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Vijay H Anand!</h1>
 <h3 align="center">🚀 Innovator | 💻 Engineer </h3>
 <p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator. </p>
-<p align="center">💡 Fueled by curiosity and creativity, I specialize in Machine Learning, CRYPTOGRAPHY, and Web Development.</p>
+<p align="center">💡 Fueled by curiosity and creativity, I specialize in Machine Learning, CRYPTOGRAPHY, and NETWORKING.</p>
 
 
 ---
