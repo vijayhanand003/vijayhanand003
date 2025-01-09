@@ -14,7 +14,7 @@
 - 🏆 **Achievements**:
   - FINALIST of Evo-LUMIN Hackathon 2024  
   - Participated in Smart India Hackathon 2024
-  - Currently pursuing a research related to SDN controllers. 
+  - Currently pursuing a research related to SDN controllers and smart-home Sensors.
 
 ---
 
@@ -43,21 +43,28 @@ Developed a Java application for smart farming using IoT sensor data collection.
 ---
 
 ### 🛠️ Development Toolbox
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-00C8E4?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" />
+  
+  <!-- Libraries -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Scikit--learn-FF9800?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-006400?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-008CC1?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-
+  <img src="https://img.shields.io/badge/Wireshark-1E4A77?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-128BF7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 </p>
+
 
 ---
 
