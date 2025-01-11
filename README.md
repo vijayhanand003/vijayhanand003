@@ -38,7 +38,6 @@ Developed a Java application for smart farming using IoT sensor data collection.
 - **Introduction to Deep Learning** (Infosys Springboard)  
 - **Introduction to NLP** (Infosys Springboard)  
 - **CSS Basics** (HackerRank)
-- 
 
 ---
 ### 🛠️ Development Toolbox
