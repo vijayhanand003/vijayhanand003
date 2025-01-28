@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello, I'm Vijay H Anand!</h1>
-<h3 align="center">🚀 Innovator | 💻 Engineer </h3>
-<p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator. </p>
-<p align="center">💡 Fueled by curiosity and creativity, I specialize in Machine Learning, CRYPTOGRAPHY, and NETWORKING.</p>
-
+<h3 align="center">🚀 Innovator | 💻 Engineer</h3>
+<p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator.</p>
+<p align="center">💡 Fueled by curiosity and creativity, I specialize in Machine Learning, Cryptography, and Networking.</p>
 
 ---
 
@@ -14,19 +13,19 @@
 - 🏆 **Achievements**:
   - FINALIST of Evo-LUMIN Hackathon 2024  
   - Participated in Smart India Hackathon 2024
-  - Currently pursuing a research related to SDN controllers and smart-home Sensors.
+  - Currently pursuing research related to SDN controllers and smart-home Sensors.
 
 ---
 
 ### 🛠️ My Projects
-🔹 **RAPTOR-STOCK SIMULATOR**  
-A simple stock exchange desktop application implemented using networking protocols in python.
+- **RAPTOR-STOCK SIMULATOR**  
+  A simple stock exchange desktop application implemented using networking protocols in Python.
 
-🔹 **Pandemic Control Management**  
-A Python-based project leveraging Dijkstra's algorithm and Minimum Spanning Tree (MST) for pandemic control strategies (focused on DSA concepts).  
+- **Pandemic Control Management**  
+  A Python-based project leveraging Dijkstra's algorithm and Minimum Spanning Tree (MST) for pandemic control strategies (focused on DSA concepts).
 
-🔹 **Smart Agriculture IoT System**  
-Developed a Java application for smart farming using IoT sensor data collection.  
+- **Smart Agriculture IoT System**  
+  Developed a Java application for smart farming using IoT sensor data collection.
 
 *Explore more in my repositories!*
 
@@ -40,6 +39,7 @@ Developed a Java application for smart farming using IoT sensor data collection.
 - **CSS Basics** (HackerRank)
 
 ---
+
 ### 🛠️ Development Toolbox
 <p align="center">
   <!-- Programming Languages -->
@@ -47,6 +47,8 @@ Developed a Java application for smart farming using IoT sensor data collection.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-00C8E4?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL" />
