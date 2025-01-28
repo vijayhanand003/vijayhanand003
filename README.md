@@ -27,11 +27,15 @@
 - **Smart Agriculture IoT System**  
   Developed a Java application for smart farming using IoT sensor data collection.
 
+- **Currently working in AGRO-ESP SONY PROJECT-EMBEDDED TEAM**
+  Devoloping the data collection from the sensors in polyhouse and deploying it into the server.
+
 *Explore more in my repositories!*
 
 ---
 
 ### 📚 Certifications
+- **Cybersecurity Analyst Job Simulation** (IAM TATA-FORAGE)
 - **Machine Learning with Python** (IBM via Coursera)  
 - **Introduction to AI** (Infosys Springboard)  
 - **Introduction to Deep Learning** (Infosys Springboard)  
