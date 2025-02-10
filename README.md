@@ -51,17 +51,17 @@ Developing the **data collection** from sensors in polyhouses and deploying it t
 
 ### ⚡ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,haskell,html,css,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,haskell,html,css,javascript,java,go,flutter,flask" />
 </p>
 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,matplotlib,pytorch" />
 </p>
 
 ### 🔧 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,github,anaconda,git,wireshark" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,github,git,anaconda,pycharm,vscode,eclipse,autocad" />
 </p>
 
 ---
@@ -69,6 +69,9 @@ Developing the **data collection** from sensors in polyhouses and deploying it t
 ## 🌐 Connect with Me  
 
 <p align="center">
+  <a href="mailto:vijayhanand2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   <a href="https://x.com/vijayhanand003?t=Bk84iRWUTfPioC7Pq3zZhA&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
