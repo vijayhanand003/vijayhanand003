@@ -47,6 +47,7 @@
 ### 🛠️ Development Toolbox
 <p align="center">
   <!-- Programming Languages -->
+  (https://skillicons.dev/icons?i=js,html,css,wasm,py,cpp,)](https://skillicons.dev)
   <img src="https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
