@@ -56,7 +56,11 @@ Developing the **data collection** from sensors in polyhouses and deploying it t
 
 ### 🚀 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,matplotlib,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
 </p>
 
 ### 🔧 Tools & Platforms  
@@ -70,16 +74,16 @@ Developing the **data collection** from sensors in polyhouses and deploying it t
 
 <p align="center">
   <a href="mailto:vijayhanand2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="https://x.com/vijayhanand003?t=Bk84iRWUTfPioC7Pq3zZhA&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
   <a href="https://www.instagram.com/v.h.a._?igsh=MTg1djJxbjUxNnhoeg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/vijay-h-anand-4a925625a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
