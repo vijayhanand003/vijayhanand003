@@ -14,7 +14,7 @@
 - 🏆 **Achievements**:  
   - 🏅 **Finalist** of Evo-LUMIN Hackathon 2024  
   - 🚀 Participated in **Smart India Hackathon 2024**  
-  - 📡 **Currently pursuing research** related to **SDN controllers and smart-home sensors**  
+  - 📡 **Currently pursuing research** related to **Sony-agro ESP project-4th phase**  
 
 ---
 
@@ -30,7 +30,7 @@ A Python-based project leveraging **Dijkstra's algorithm** and **Minimum Spannin
 Developed a **Java application** for smart farming using IoT sensor data collection.
 
 ### 🔹 Currently working in **AGRO-ESP SONY PROJECT - EMBEDDED TEAM**  
-Developing the **data collection** from sensors in polyhouses and deploying it to the server.
+Developing the **data collection** from sensors deployed in polyhouses and deploying it to the server.
 
 📌 *Explore more in my repositories!*
 
