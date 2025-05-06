@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Innovator | 💻 Engineer</h3>
 
 <p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator.</p>
-<p align="center">💡 Fueled by curiosity and creativity, I specialize in <strong>Machine Learning, Cryptography, and Networking.</strong></p>
+<p align="center">💡 Fueled by curiosity and creativity, I specialize in <strong>Machine Learning</strong></p>
 
 ---
 
@@ -12,7 +12,7 @@
 - 💡 **Skills**: Python, C++, HTML, CSS, MySQL  
 - 🤝 **Strengths**: Leadership, Communication, Teamwork  
 - 🏆 **Achievements**:  
-  - 🏅 **Finalist** of Evo-LUMIN Hackathon 2024  
+  - 🏅 **Selected for the final round** of Evo-LUMIN Hackathon 2024  
   - 🚀 Participated in **Smart India Hackathon 2024**  
   - 📡 **Currently pursuing research** related to **Sony-agro ESP project-4th phase**  
 
