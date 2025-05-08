@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🎓 **CSE Undergraduate** | Passionate about pushing the boundaries of technology.  
 - 🌱 **Currently Exploring**: Deep Learning, Networks, Machine Learning  
-- 💡 **Skills**: Python, C++, HTML, CSS, MySQL  
+- 💡 **Skills**: Python, C++, HTML, CSS, MySQL,Javascript
 - 🤝 **Strengths**: Leadership, Communication, Teamwork  
 - 🏆 **Achievements**:  
   - 🏅 **Selected for the final round** of Evo-LUMIN Hackathon 2024  
@@ -26,8 +26,8 @@ A simple **stock exchange desktop application** implemented using networking pro
 ### 🔹 Pandemic Control Management  
 A Python-based project leveraging **Dijkstra's algorithm** and **Minimum Spanning Tree (MST)** for pandemic control strategies (focused on DSA concepts).
 
-### 🔹 Smart Agriculture IoT System  
-Developed a **Java application** for smart farming using IoT sensor data collection.
+### 🔹 Interactive-Learning-App-for-Kids 
+A web application creating using react and nodejs for teaching kids via interactive methods such as games and quizzes with video lectures.
 
 ### 🔹 Currently working in **AGRO-ESP SONY PROJECT - EMBEDDED TEAM**  
 Developing the **data collection** from sensors deployed in polyhouses and deploying it to the server.
@@ -51,7 +51,7 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
 
 ### ⚡ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,haskell,html,css,javascript,java,go,flutter,flask" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,haskell,html,css,javascript,java,go,flutter,flask,react,nodejs" />
 </p>
 
 ### 🚀 Frameworks & Libraries  
