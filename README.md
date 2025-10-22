@@ -91,10 +91,6 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
   &nbsp;&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40" />
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2_Logo.svg" alt="SciPy" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/zh/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40" />
-  &nbsp;&nbsp;
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="40" />
 </p>
 
