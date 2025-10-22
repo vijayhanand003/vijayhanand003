@@ -72,19 +72,17 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
 ### 🚀 Frameworks & Libraries  
 
 <p align="center">
-  <!-- Deep Learning Frameworks -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="50"/>
-
-  <!-- Space between groups -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Data Analysis & Visualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" height="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" height="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" />
 </p>
+
 
 
 
