@@ -70,17 +70,33 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
 </p>
 
 ### 🚀 Frameworks & Libraries  
+
 <p align="center">
+  <!-- Core ML & DL Frameworks -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Apache_Spark_logo.svg" alt="Apache Spark" height="40"/>
+
+  <br><br>
+
+  <!-- Data Analysis & Visualization -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" alt="Pandas" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/SciPy_Logo.svg" alt="SciPy" height="40"/>
+
+  <br><br>
+
+  <!-- Deep Learning for Computer Vision -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="40"/>
 </p>
+
 
 ### 🔧 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,github,git,anaconda,pycharm,vscode,eclipse,autocad" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,github,git,anaconda,pycharm,vscode,eclipse,autocad,Jupyter Notebook" />
 </p>
 
 ---
