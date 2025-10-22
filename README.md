@@ -87,7 +87,7 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
 
 ### 🔧 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,github,git,anaconda,pycharm,vscode,eclipse,autocad,Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,github,git,anaconda,pycharm,vscode,eclipse,autocad" />
 </p>
 
 ---
