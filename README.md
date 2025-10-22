@@ -1,20 +1,36 @@
 <h1 align="center">👋 Hello, I'm Vijay H Anand!</h1>
-<h3 align="center">🚀 Innovator | 💻 Engineer</h3>
+<h3 align="center">🚀 Innovator | 💻 Engineer | 🌐 Full Stack Developer</h3>
 
 <p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator.</p>
-<p align="center">💡 Fueled by curiosity and creativity, I specialize in <strong>Machine Learning</strong></p>
+<p align="center">💡 Fueled by curiosity and creativity, I specialize in <strong>Machine Learning,Deep Learning</strong> and <strong>Full Stack Development</strong>.</p>
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **CSE Undergraduate** | Passionate about pushing the boundaries of technology.  
-- 🌱 **Currently Exploring**: Deep Learning, Networks, Machine Learning  
-- 💡 **Skills**: Python, C++, HTML, CSS, MySQL,Javascript
+- 🌱 **Currently Exploring**: Deep Learning,Front-end Devolopment, Machine Learning  
+- 💡 **Skills**: Python, C++, HTML, CSS, MySQL,Javascript,React,NodeJS
 - 🤝 **Strengths**: Leadership, Communication, Teamwork  
 - 🏆 **Achievements**:  
-  - 🏅 **Selected for the final round** of Evo-LUMIN Hackathon 2024  
+  - 🏅 **Selected for the 2nd-final round** of Evo-LUMIN Hackathon 2024  
   - 🚀 Participated in **Smart India Hackathon 2024**  
   - 📡 **Currently pursuing research** related to **Sony-agro ESP project-4th phase**  
+
+---
+
+## 💼 Professional Experience  
+
+### 🔹 **Software Developer Intern – NutMeg Solutions (May 2025 – October 2025)**  
+- Worked as a **Full Stack Software Developer Intern** in the product development team.  
+- Developed a **web application for a manufacturing industry** focused on **component calibration automation**.  
+- Automated the **daily activity modules**, improving operational efficiency and accuracy.  
+- **Tech Stack:** React.js, Node.js (Express), PostgreSQL  
+- Gained hands-on experience in end-to-end web development, database design, and deployment for industrial applications.  
+
+🧩 *This experience deepened my understanding of full stack product development and real-world software engineering practices.*  
+
+---
+
 
 ---
 
@@ -51,7 +67,7 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
 
 ### ⚡ Languages & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,haskell,html,css,javascript,java,go,flutter,flask,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,haskell,html,css,javascript,java,go,flutter,flask,react,nodejs,postgresql" />
 </p>
 
 ### 🚀 Frameworks & Libraries  
