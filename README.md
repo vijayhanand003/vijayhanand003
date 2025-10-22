@@ -92,11 +92,9 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40" />
   &nbsp;&nbsp;
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="Jupyter Notebook" height="40" />
 </p>
-
-
-
-
 
 
 ### 🔧 Tools & Platforms  
