@@ -2,34 +2,45 @@
 <h3 align="center">🚀 Innovator | 💻 Engineer | 🌐 Full Stack Developer</h3>
 
 <p align="center">🌟 To harness the power of technology to create solutions that make a real-world impact while continuing to grow as an innovator and collaborator.</p>
-<p align="center">💡 Fueled by curiosity and creativity, I specialize in <strong>Machine Learning,Deep Learning</strong> and <strong>Full Stack Development</strong>.</p>
+<p align="center">💡 Fueled by curiosity and creativity, I specialize in <strong>Machine Learning, Deep Learning</strong> and <strong>Full Stack Development</strong>.</p>
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **CSE Undergraduate** | Passionate about pushing the boundaries of technology.  
-- 🌱 **Currently Exploring**: Deep Learning,Front-end Devolopment, Machine Learning  
-- 💡 **Skills**: Python, C++, HTML, CSS, MySQL,Javascript,React,NodeJS
+- 🌱 **Currently Exploring**: Deep Learning, Front-End Development, Machine Learning  
+- 💡 **Skills**: Python, C++, HTML, CSS, MySQL, JavaScript, React, Node.js  
 - 🤝 **Strengths**: Leadership, Communication, Teamwork  
 - 🏆 **Achievements**:  
   - 🏅 **Selected for the 2nd-final round** of Evo-LUMIN Hackathon 2024  
-  - 🚀 Participated in **Smart India Hackathon 2024** - 📡 **Currently pursuing research** related to **Sony-agro ESP project-4th phase** ---
+  - 🚀 Participated in **Smart India Hackathon 2024**  
+  - 📡 **Currently pursuing research** related to **Sony-Agro ESP Project – Phase 4**
+
+---
 
 ## 💼 Professional Experience  
 
-### 🔹 **Software Developer Intern – NutMeg Solutions (May 2025 – October 2025)** - Worked as a **Full Stack Software Developer Intern** in the product development team.  
+### 🔹 **Software Developer Intern – NutMeg Solutions (May 2025 – October 2025)**  
+Worked as a **Full Stack Software Developer Intern** in the product development team.  
 - Developed a **web application for a manufacturing industry** focused on **component calibration automation**.  
 - Automated the **daily activity modules**, improving operational efficiency and accuracy.  
 - **Tech Stack:** React.js, Node.js (Express), PostgreSQL  
-- Gained hands-on experience in end-to-end web development, database design, and deployment for industrial applications.  
+- Gained hands-on experience in **end-to-end web development**, **database design**, and **deployment** for industrial applications.  
 
-🧩 *This experience deepened my understanding of full stack product development and real-world software engineering practices.* ### 🔹 **Embedded Systems and Hardware Intern – Sony SSUP (Jan 2025 – Sep 2025)** - Contributed to **Phase 4** of “An Edge-based Cyber-Physical System for Smart Polyhouse Solar Drying of Agricultural Food Products,” focusing on **embedded hardware integration**, firmware development, and system optimization.
-- Assisted in migrating project architecture from **ESP32 to Raspberry Pi** to improve scalability and performance.
-- Ensured long-term operation and monitoring of sensor nodes for continuous food product monitoring.
-- Assisted in **zero PCB design** creation and **battery module integration**.
-- **Tech Stack:** Sony Spresense, ESP32, Raspberry Pi, GSM modules
+🧩 *This experience deepened my understanding of full stack product development and real-world software engineering practices.*  
 
-🧩 *This role provided deep experience in hardware integration, low-level firmware, and IoT system architecture.*
+---
+
+### 🔹 **Embedded Systems and Hardware Intern – Sony SSUP (January 2025 – September 2025)**  
+Worked as an **Embedded Systems and Hardware Intern** contributing to **Phase 4** of the project  
+**“An Edge-based Cyber-Physical System for Smart Polyhouse Solar Drying of Agricultural Food Products.”**  
+- Focused on **embedded hardware integration**, **firmware development**, and **system optimization**.  
+- Assisted in migrating the project architecture from **ESP32 to Raspberry Pi** to enhance scalability and performance.  
+- Implemented **zero PCB design**, **battery module integration**, and ensured **long-term sensor node monitoring** for continuous operation.  
+- Collaborated on **data acquisition**, **wireless communication setup**, and **edge-based computation** for IoT-enabled agriculture.  
+- **Tech Stack:** Sony Spresense, ESP32, Raspberry Pi, GSM modules  
+
+🧩 *This internship provided valuable exposure to hardware integration, embedded firmware, and IoT system design at an industrial scale.*  
 
 ---
 
@@ -41,10 +52,11 @@ A simple **stock exchange desktop application** implemented using networking pro
 ### 🔹 Pandemic Control Management  
 A Python-based project leveraging **Dijkstra's algorithm** and **Minimum Spanning Tree (MST)** for pandemic control strategies (focused on DSA concepts).
 
-### 🔹 Interactive-Learning-App-for-Kids  
-A web application creating using react and nodejs for teaching kids via interactive methods such as games and quizzes with video lectures.
+### 🔹 Interactive Learning App for Kids  
+A web application built using **React.js** and **Node.js**, designed to teach kids through interactive methods such as **games, quizzes, and video lectures**.
 
-### 🔹 Currently working in **AGRO-ESP SONY PROJECT - EMBEDDED TEAM** Developing the **data collection** from sensors deployed in polyhouses and deploying it to the server.
+### 🔹 AGRO-ESP SONY PROJECT – EMBEDDED TEAM  
+Currently developing the **data collection pipeline** for sensors deployed in polyhouses and deploying the collected data to the server.
 
 📌 *Explore more in my repositories!*
 
@@ -52,7 +64,7 @@ A web application creating using react and nodejs for teaching kids via interact
 
 ## 🎓 Certifications  
 
-- ✅ **Cybersecurity Analyst Job Simulation** (IAM TATA-FORAGE)  
+- ✅ **Cybersecurity Analyst Job Simulation** (TATA – Forage)  
 - ✅ **Machine Learning with Python** (IBM via Coursera)  
 - ✅ **Introduction to AI** (Infosys Springboard)  
 - ✅ **Introduction to Deep Learning** (Infosys Springboard)  
@@ -69,7 +81,6 @@ A web application creating using react and nodejs for teaching kids via interact
 </p>
 
 ### 🚀 Frameworks & Libraries  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
   &nbsp;&nbsp;
@@ -94,7 +105,6 @@ A web application creating using react and nodejs for teaching kids via interact
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="Jupyter Notebook" height="40" />
 </p>
 
-
 ### 🔧 Tools & Platforms  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ubuntu,kali,linux,windows,github,git,anaconda,pycharm,vscode,eclipse,autocad" />
@@ -103,7 +113,6 @@ A web application creating using react and nodejs for teaching kids via interact
 ---
 
 ## 🌐 Connect with Me  
-
 <p align="center">
   <a href="mailto:vijayhanand2004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
@@ -115,4 +124,8 @@ A web application creating using react and nodejs for teaching kids via interact
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/vijay-h-anand-4a925625a" target="_blank">
-    <img src
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
+
+---
