@@ -13,23 +13,23 @@
 - 🤝 **Strengths**: Leadership, Communication, Teamwork  
 - 🏆 **Achievements**:  
   - 🏅 **Selected for the 2nd-final round** of Evo-LUMIN Hackathon 2024  
-  - 🚀 Participated in **Smart India Hackathon 2024**  
-  - 📡 **Currently pursuing research** related to **Sony-agro ESP project-4th phase**  
-
----
+  - 🚀 Participated in **Smart India Hackathon 2024** - 📡 **Currently pursuing research** related to **Sony-agro ESP project-4th phase** ---
 
 ## 💼 Professional Experience  
 
-### 🔹 **Software Developer Intern – NutMeg Solutions (May 2025 – October 2025)**  
-- Worked as a **Full Stack Software Developer Intern** in the product development team.  
+### 🔹 **Software Developer Intern – NutMeg Solutions (May 2025 – October 2025)** - Worked as a **Full Stack Software Developer Intern** in the product development team.  
 - Developed a **web application for a manufacturing industry** focused on **component calibration automation**.  
 - Automated the **daily activity modules**, improving operational efficiency and accuracy.  
 - **Tech Stack:** React.js, Node.js (Express), PostgreSQL  
 - Gained hands-on experience in end-to-end web development, database design, and deployment for industrial applications.  
 
-🧩 *This experience deepened my understanding of full stack product development and real-world software engineering practices.*  
+🧩 *This experience deepened my understanding of full stack product development and real-world software engineering practices.* ### 🔹 **Embedded Systems and Hardware Intern – Sony SSUP (Jan 2025 – Sep 2025)** - Contributed to **Phase 4** of “An Edge-based Cyber-Physical System for Smart Polyhouse Solar Drying of Agricultural Food Products,” focusing on **embedded hardware integration**, firmware development, and system optimization.
+- Assisted in migrating project architecture from **ESP32 to Raspberry Pi** to improve scalability and performance.
+- Ensured long-term operation and monitoring of sensor nodes for continuous food product monitoring.
+- Assisted in **zero PCB design** creation and **battery module integration**.
+- **Tech Stack:** Sony Spresense, ESP32, Raspberry Pi, GSM modules
 
-
+🧩 *This role provided deep experience in hardware integration, low-level firmware, and IoT system architecture.*
 
 ---
 
@@ -41,11 +41,10 @@ A simple **stock exchange desktop application** implemented using networking pro
 ### 🔹 Pandemic Control Management  
 A Python-based project leveraging **Dijkstra's algorithm** and **Minimum Spanning Tree (MST)** for pandemic control strategies (focused on DSA concepts).
 
-### 🔹 Interactive-Learning-App-for-Kids 
+### 🔹 Interactive-Learning-App-for-Kids  
 A web application creating using react and nodejs for teaching kids via interactive methods such as games and quizzes with video lectures.
 
-### 🔹 Currently working in **AGRO-ESP SONY PROJECT - EMBEDDED TEAM**  
-Developing the **data collection** from sensors deployed in polyhouses and deploying it to the server.
+### 🔹 Currently working in **AGRO-ESP SONY PROJECT - EMBEDDED TEAM** Developing the **data collection** from sensors deployed in polyhouses and deploying it to the server.
 
 📌 *Explore more in my repositories!*
 
@@ -72,7 +71,6 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
 ### 🚀 Frameworks & Libraries  
 
 <p align="center">
-  <!-- Core ML & DL Frameworks -->
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
@@ -117,11 +115,4 @@ Developing the **data collection** from sensors deployed in polyhouses and deplo
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/vijay-h-anand-4a925625a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
-
----
-
-📌 **Feel free to check out my repositories and connect with me on social media!**  
-I'm always eager to collaborate on exciting projects and open to new ideas! 🚀
+    <img src
